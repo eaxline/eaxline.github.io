@@ -34,6 +34,8 @@ li {
 .social {
   text-align: center;
   margin-top: 70px;
+  font-family: Courier;
+  font-size: 24px;
 }
 .left {
   background-color: white;
